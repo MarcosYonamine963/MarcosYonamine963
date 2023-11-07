@@ -3,13 +3,15 @@
  * 🎓 Formado em Engenharia Elétrica pela Universidade Estadual de Londrina.
  * 💻 Trabalhando com desenvolvimento de Produtos com Sistemas Embarcados na empresa F&K Electronics.
  * 🪕 Professor de [Sanshin](https://pt.wikipedia.org/wiki/Sanshin) nas horas livres.
+ * ⛩️ Proficiência em Língua Japonesa (JLPT): N3.
+ * 🇯🇵 日本語能力試験: ３級
 
 ##
 ### Evolução
 
 <div style="display: inline">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MarcosYonamine963&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosYonamine963&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcosYonamine963&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&bg_color=00000000&rank_icon=github&locale=pt-br"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosYonamine963&hide_progress=false&langs_count=6&layout=compact&theme=prussian&bg_color=00000000&locale=pt-br"/>
 </div>
 
 ##
@@ -24,6 +26,11 @@
 </div>
           
 
+##
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
