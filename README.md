@@ -10,8 +10,8 @@
 ### Evolução
 
 <div style="display: inline">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcosYonamine963&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&bg_color=00000000&rank_icon=github&locale=pt-br"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosYonamine963&hide_progress=false&langs_count=6&layout=compact&theme=prussian&bg_color=00000000&locale=pt-br"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MarcosYonamine963&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&bg_color=00000000&rank_icon=github&locale=pt-br"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosYonamine963&hide_progress=false&langs_count=6&layout=compact&theme=prussian&bg_color=00000000&locale=pt-br"/>
 </div>
 
 ##
