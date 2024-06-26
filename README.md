@@ -1,7 +1,7 @@
 ## Oi, meu nome é Marcos :)
 
  * 🎓 Formado em Engenharia Elétrica pela Universidade Estadual de Londrina.
- * 💻 Trabalhando com desenvolvimento de Produtos com Sistemas Embarcados na empresa F&K Electronics.
+ * 💻 Trabalhando com desenvolvimento de Produtos e Sistemas Embarcados na empresa Effortech.
  * 🪕 Professor de [Sanshin](https://pt.wikipedia.org/wiki/Sanshin) nas horas livres.
  * ⛩️ Proficiência em Língua Japonesa (JLPT): N3.
  * 🇯🇵 日本語能力試験: ３級
